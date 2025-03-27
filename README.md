@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=R,python,SQL,postgres," />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,docker,linux" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 </p>
 
