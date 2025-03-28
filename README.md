@@ -4,7 +4,7 @@
 
 - 💻 Data Scientist
 - 🎓 MSc in Cognitive Psychology | Passionate about AI & Data Science
-- 🔭 Currently working on NLP & Deep Learning projects
+- 🔭 Currently working on ML & Deep Learning projects
 
 ## 🛠️ Languages and Tools
 
